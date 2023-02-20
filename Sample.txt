@@ -1,0 +1,3 @@
+Output:
+Welcome to training cls and training is useful
+{and=1, Welcome=1, training=2, is=1, to=1, cls=1, useful=1}
